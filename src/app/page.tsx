@@ -23,11 +23,12 @@ export default function Home() {
   return (
     
     <main>
-      <Hero />    
+      <Hero /> 
+      <About />     
     <Projects />
     <Skills />
   <Contacts />
-<About />     
+   
     </main>
   );
 }
